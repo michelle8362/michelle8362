@@ -94,7 +94,7 @@ I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean,
 <!--                        LEARNING PATH                         -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-# 🚀 Learning Path (selectable)
+# 🚀 Learning Path
 
 - C# → Advanced C#  
 - .NET 6 → .NET 8 → **.NET 10 + C# 14**  
